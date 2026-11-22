@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kickoff Arena</string>
+    <string name="logo_kickoff">KICKOFF</string>
+    <string name="logo_arena">ARENA</string>
+    <string name="badge_landscape">MOBILE LANDSCAPE MATCH</string>
+    <string name="lbl_player_nickname">PLAYER NICKNAME</string>
+    <string name="btn_play_cpu">⚽ PLAY VS CPU (SOLO ACTION)</string>
+    <string name="btn_multiplayer">🌐 MULTIPLAYER (HOST / JOIN PIN)</string>
+    <string name="btn_host_match">HOST MATCH (GET PIN)</string>
+    <string name="btn_join">JOIN</string>
+    <string name="btn_settings_hub">⚙️ SETTINGS HUB (AUDIO &amp; CONTROLS)</string>
+    <string name="hs_title">🏆 ARENA HIGH SCORES</string>
+    <string name="hs_top_players">TOP PLAYERS</string>
+    <string name="hs_empty">No records yet. Win a match!</string>
+    <string name="rot_title">ROTATE TO LANDSCAPE</string>
+    <string name="rot_sub">Kickoff Arena is calibrated for mobile landscape football. Rotate your phone sideways!</string>
+    <string name="rot_btn_main">ROTATE / FULLSCREEN</string>
+    <string name="rot_btn_force">FORCE HORIZONTAL VIEW</string>
+</resources>

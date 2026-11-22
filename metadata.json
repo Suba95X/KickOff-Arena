@@ -1,0 +1,6 @@
+{
+  "name": "Kickoff Arena",
+  "description": "Fast-paced 2v2 arcade football game with power-ups, custom audio synthesizer, high-score leaderboards, and customizable controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
